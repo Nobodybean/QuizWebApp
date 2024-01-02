@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="QuizApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuizApp</output-path>
+    <root id="archive" name="QuizApp.war" />
+  </artifact>
+</component>
